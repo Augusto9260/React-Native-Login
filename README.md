@@ -1,5 +1,5 @@
 # React-Native
-Tela de login e cadastro de usuario com react native usando react navigation v5.
+Tela de login e cadastro de usuário com react native usando react navigation v5.
 
 
 ![Tela-login](https://user-images.githubusercontent.com/63432537/88991014-e6202000-d2b5-11ea-924a-3d91cad6d479.png)
